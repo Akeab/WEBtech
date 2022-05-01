@@ -4,11 +4,11 @@ Web technoogies assignment 1
 
 During this period , we started of with the basics such as the various types of HTML tags and what html is .
 HTML is Hyper-Text markup language and it is the basic structure of a website.Its basically the backbone or building block to any website.
-And it has many tags which are like its elements or tools.Some of them are
-<a> anchor tag  which is used for referencing any url or links
-<br>  break tag for line break
-<img > image tag used for entering images
-<script> script tag used to write javascript in html or reference it to an exterenal js using src=""
+And it has many tags which are like its elements or tools.Some of them are- 
+ a  anchor tag  which is used for referencing any url or links
+ br  break tag for line break, 
+  <img > image tag used for entering images, 
+  <script> script tag used to write javascript in html or reference it to an exterenal js using src=""
 <p> paragraph tag is used to write paragraphs in body
 <h1,2,3..>heading tags used to write headings with their size proprtional to their numbers
 <header> header tag used for header
